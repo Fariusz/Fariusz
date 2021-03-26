@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 📫 How to reach me: <a href="http://loth.cba.pl/">WebPage</a>
+- 📫 How to reach me: <a href="http://loth.cba.pl/">about me</a>
 
 
-http://loth.cba.pl/
 
 <!--
 **Fariusz/Fariusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
