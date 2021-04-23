@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 📫 How to reach me: <a href="http://linkedin.com/in/radoslaw-loth/">Linkedin</a>
+-  <a href="https://www.facebook.com/radolot/">Facebook</a>
 
 <!--  <a href="http://loth.cba.pl/">about me</a> -->
 
