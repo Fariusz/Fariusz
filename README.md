@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: <a href="http://linkedin.com/in/radoslaw-loth/">Linkedin</a>
 
-- <!--  <a href="http://loth.cba.pl/">about me</a> -->
+<!--  <a href="http://loth.cba.pl/">about me</a> -->
 
 
 
