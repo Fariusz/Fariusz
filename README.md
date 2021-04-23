@@ -5,8 +5,13 @@
 - <a href="https://www.facebook.com/radolot/">Facebook</a>
 - <a href= "https://open.spotify.com/user/1192996888?fbclid=IwAR0Q0v5kzdf94bAXSHv6Uk0QdfYWLFuQckfOdb6-o7pMNTt7fz4mZ7BloUM">Spotify</a>
 - <a href= "https://www.instagram.com/r_loth/?fbclid=IwAR0BTwgsgUK6zaL-kuBfXlXdG7eDwL1CQMDqg58SDJTE1RepNz0-XYxzles">Instagram</a>
-<!--  <a href="http://loth.cba.pl/">about me</a> -->
+- <a href="http://loth.cba.pl/">Webpage</a> -->
 
+🌱 I’m currently learning 
+- Angular
+- TypeScript
+- Java
+- C++
 
 
 <!--
