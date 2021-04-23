@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me:
+📫 How to reach me:
 - <a href="http://linkedin.com/in/radoslaw-loth/">Linkedin</a>
 - <a href="https://www.facebook.com/radolot/">Facebook</a>
 - <a href= "https://open.spotify.com/user/1192996888?fbclid=IwAR0Q0v5kzdf94bAXSHv6Uk0QdfYWLFuQckfOdb6-o7pMNTt7fz4mZ7BloUM">Spotify</a>
