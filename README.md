@@ -10,8 +10,9 @@
 🌱 I’m currently learning 
 - Angular
 - TypeScript
-- Java
-- C++
+- Java Spring
+- .NET CORE
+- C++ : WINAPI
 
 
 <!--
