@@ -1,7 +1,8 @@
-[![Header](https://github.com/Fariusz/Fariusz/blob/master/hero_image.png "Header")](http://radek.loth.cba.pl/)
+[![Header](https://github.com/Fariusz/Fariusz/blob/master/header_original.png "Header")](http://radek.loth.cba.pl/)
 
 
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 📫 How to reach me:
 - <a href="http://linkedin.com/in/radoslaw-loth/">Linkedin</a>
