@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Fariusz/<OWNER>/<OWNER>/hero_image.png "Header")](http://radek.loth.cba.pl/)
+[![Header](https://github.com/Fariusz/Fariusz/blob/master/hero_image.png "Header")](http://radek.loth.cba.pl/)
 
 
 ### Hi there 👋
