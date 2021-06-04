@@ -1,7 +1,7 @@
 [![Header](https://github.com/Fariusz/Fariusz/blob/master/header_original.png "Header")](http://radek.loth.cba.pl/)
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Radosław Loth and I'm an IT Administrator pretedning to be developer. 
+My name is Radosław Loth and I'm an IT Administrator pretending to be developer. 
 I'm from Poland living in Katowice and currently working for Liebherr. 
 
 📫 How to reach me:
