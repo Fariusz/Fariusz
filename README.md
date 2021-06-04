@@ -1,21 +1,15 @@
 [![Header](https://github.com/Fariusz/Fariusz/blob/master/header_original.png "Header")](http://radek.loth.cba.pl/)
 
-
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Radosław Loth and I'm an IT Administrator pretedning to be developer. 
 I'm from Poland living in Katowice and currently working for Liebherr. 
 
 📫 How to reach me:
-- <a href="http://linkedin.com/in/radoslaw-loth/">Linkedin</a>
+- <a href="http://linkedin.com/in/radoslaw-loth/">[![alt text][1.1]][1]</a>
 - <a href="https://www.facebook.com/radolot/">Facebook</a>
 - <a href="http://radek.loth.cba.pl/">Webpage</a>
-- 
-📈 GitHub stats:
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Fariusz&theme=<THEME_NAME>" /><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fariusz&theme=<THEME_NAME>" />
 
-🔧 Tools:
+🔧 Technologies & Tools:
 <br>
 ![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=Intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS-informational?style=flat&logo=Visual-Studio&logoColor=white&color=2bbc8a)
@@ -26,15 +20,19 @@ I'm from Poland living in Katowice and currently working for Liebherr.
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=PowerShell&logoColor=white&color=2bbc8a)
 
-🌱 I’m currently learning 
+
+📈 GitHub stats:
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Fariusz&theme=<THEME_NAME>" /><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fariusz&theme=<THEME_NAME>" />
+
+
+<!-- 🌱 I’m currently learning 
 - Angular
 - TypeScript
 - Java Spring
 - .NET CORE
-- C++ : WINAPI
-
-
-
+- C++ : WINAPI -->
 <!--
 **Fariusz/Fariusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
