@@ -1,3 +1,6 @@
+[![Header](https://raw.githubusercontent.com/Fariusz/<OWNER>/<OWNER>/hero_image.png "Header")](http://radek.loth.cba.pl/)
+
+
 ### Hi there 👋
 
 📫 How to reach me:
@@ -14,8 +17,6 @@
 - .NET CORE
 - C++ : WINAPI
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
 
 <!--
