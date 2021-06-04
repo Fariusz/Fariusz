@@ -2,19 +2,29 @@
 
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Radosław Loth and I'm an IT Administrator pretedning to be developer. I'm from Poland living in Katowice and currently working for Liebherr. 
+My name is Radosław Loth and I'm an IT Administrator pretedning to be developer. 
+I'm from Poland living in Katowice and currently working for Liebherr. 
 
 📫 How to reach me:
 - <a href="http://linkedin.com/in/radoslaw-loth/">Linkedin</a>
 - <a href="https://www.facebook.com/radolot/">Facebook</a>
-- <a href= "https://open.spotify.com/user/1192996888?fbclid=IwAR0Q0v5kzdf94bAXSHv6Uk0QdfYWLFuQckfOdb6-o7pMNTt7fz4mZ7BloUM">Spotify</a>
-- <a href= "https://www.instagram.com/r_loth/?fbclid=IwAR0BTwgsgUK6zaL-kuBfXlXdG7eDwL1CQMDqg58SDJTE1RepNz0-XYxzles">Instagram</a>
 - <a href="http://radek.loth.cba.pl/">Webpage</a>
-
-
+- 
+📈 GitHub stats:
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Fariusz&theme=<THEME_NAME>" /><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fariusz&theme=<THEME_NAME>" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=Fariusz&theme=<THEME_NAME>" />
+🔧 Tools:
+<br>
+![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=Intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VS-informational?style=flat&logo=Visual-Studio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C&2B&2B&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=PowerShell&logoColor=white&color=2bbc8a)
 
 🌱 I’m currently learning 
 - Angular
