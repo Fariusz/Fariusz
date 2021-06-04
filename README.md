@@ -5,7 +5,7 @@ My name is Radosław Loth and I'm an IT Administrator pretedning to be developer
 I'm from Poland living in Katowice and currently working for Liebherr. 
 
 📫 How to reach me:
-- <a href="http://linkedin.com/in/radoslaw-loth/">[![alt text][1.1]][1]</a>
+- <a href="http://linkedin.com/in/radoslaw-loth/">LinkedIn</a>
 - <a href="https://www.facebook.com/radolot/">Facebook</a>
 - <a href="http://radek.loth.cba.pl/">Webpage</a>
 
