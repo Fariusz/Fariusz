@@ -2,7 +2,8 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Radosław Loth and I'm an IT Administrator aspiring to be a developer. 
-I'm from Poland living in Katowice and currently working for Liebherr. 
+I'm from Poland living in Katowice and currently working for Liebherr and study IT on Silesian University of Technology.
+
 
 📫 How to reach me:
 - <a href="http://linkedin.com/in/radoslaw-loth/">LinkedIn</a>
