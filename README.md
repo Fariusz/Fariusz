@@ -25,10 +25,10 @@ I'm from Poland living in Katowice and currently working for Liebherr and study 
 📈 GitHub stats:
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Fariusz&theme=<THEME_NAME>" /><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fariusz&theme=<THEME_NAME>" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fariusz&theme=<THEME_NAME>" />
 
 
-<!-- 🌱 I’m currently learning 
+ 🌱 I’m currently learning 
 - Angular
 - TypeScript
 - Java Spring
