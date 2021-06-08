@@ -6,9 +6,8 @@ I'm from Poland living in Katowice and currently working for Liebherr and study 
 
 
 📫 How to reach me:
-- <a href="http://linkedin.com/in/radoslaw-loth/">LinkedIn</a>
-- <a href="https://www.facebook.com/radolot/">Facebook</a>
-- <a href="http://radek.loth.cba.pl/">Webpage</a>
+- <a href="http://radek.loth.cba.pl/">Visit my Webpage!</a>
+- <a href="http://linkedin.com/in/radoslaw-loth/">Add me on LinkedIn 😄</a>
 
 🔧 Technologies & Tools:
 <br>
