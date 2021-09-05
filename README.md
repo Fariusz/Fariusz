@@ -2,7 +2,7 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Radosław Loth and I'm an Junior Software Engineer. 
-I'm from Poland living in Katowice and currently working for Cognizant and study IT on Silesian University of Technology.
+I'm from Poland living in Katowice and currently working for Cognizant Technology Solutions and study IT on Silesian University of Technology.
 
 
 📫 How to reach me:
