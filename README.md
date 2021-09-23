@@ -14,6 +14,7 @@ I'm from Poland living in Katowice and currently working for Cognizant Technolog
 ![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=Intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS-informational?style=flat&logo=Visual-Studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=SpringBoot&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C&2B&2B&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a)
