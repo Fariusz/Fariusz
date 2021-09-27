@@ -4,6 +4,8 @@
 My name is Radosław Loth and I'm an Junior Software Engineer. 
 I'm from Poland living in Katowice and currently working for Cognizant Technology Solutions and study IT on Silesian University of Technology.
 
+![](https://komarev.com/ghpvc/?username=Fariusz)
+
 
 📫 How to reach me:
 - <a href="http://radek.loth.cba.pl/">Visit my Webpage!</a>
