@@ -2,7 +2,7 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Radosław Loth and I'm an Junior Software Engineer. 
-I'm from Poland living in Katowice and currently working for Cognizant Technology Solutions and study IT on Silesian University of Technology.
+I'm from Poland living in Katowice and I study IT on Silesian University of Technology.
 
 ![](https://komarev.com/ghpvc/?username=Fariusz)
 
@@ -27,26 +27,3 @@ I'm from Poland living in Katowice and currently working for Cognizant Technolog
 📈 GitHub stats:
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Fariusz&theme=<THEME_NAME>" /><br>
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fariusz&theme=<THEME_NAME>" />
-
-
- 🌱 I’m currently learning 
-- Angular
-- TypeScript
-- Java Spring
-- .NET CORE
-- C++ : WINAPI -->
-<!--
-**Fariusz/Fariusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
