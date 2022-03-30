@@ -8,7 +8,6 @@ I'm from Poland living in Katowice and I study IT on Silesian University of Tech
 
 
 📫 How to reach me:
-- <a href="http://radek.loth.cba.pl/">Visit my Webpage!</a>
 - <a href="http://linkedin.com/in/radoslaw-loth/">Add me on LinkedIn 😄</a>
 
 🔧 Technologies & Tools:
