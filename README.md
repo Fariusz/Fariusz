@@ -1,8 +1,8 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Radosław Loth and I'm an Junior Software Engineer. 
-I'm from Poland living in Katowice and I study IT on Silesian University of Technology.
-
+My name is Radosław Loth and currently I work as an Software Engineer. 
+I'm currently developing towards web development, but I'm about IT in a broad sense
+I graduated from Silesian University of Technology majoring in Computer Science (BEng Degree).
 ![](https://komarev.com/ghpvc/?username=Fariusz)
 
 
