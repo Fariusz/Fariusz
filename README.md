@@ -1,16 +1,19 @@
+![](https://komarev.com/ghpvc/?username=Fariusz)
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+
 My name is Radosław Loth and currently I work as an Software Engineer. 
 I'm currently developing towards web development, but I'm about IT in a broad sense
 I graduated from Silesian University of Technology majoring in Computer Science (BEng Degree).
-![](https://komarev.com/ghpvc/?username=Fariusz)
-
-
-📫 How to reach me:
-- <a href="http://linkedin.com/in/radoslaw-loth/">Add me on LinkedIn 😄</a>
-
-🔧 Technologies & Tools:
 <br>
+
+<h3>📫 How to reach me: </h3>
+<br>
+
+<a href="http://linkedin.com/in/radoslaw-loth/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+
+<h3>🔧 Technologies & Tools: </h3>
+
 ![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=Intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS-informational?style=flat&logo=Visual-Studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
@@ -22,6 +25,7 @@ I graduated from Silesian University of Technology majoring in Computer Science 
 ![](https://img.shields.io/badge/Code-BootStrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=PowerShell&logoColor=white&color=2bbc8a)
 
-📈 GitHub stats:
+
+<h3> 📈 GitHub stats: </h3>
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Fariusz&theme=<THEME_NAME>" /><br>
