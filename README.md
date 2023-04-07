@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there  <br><br>My name is Radosław Loth and currently I work as an Software Engineer. I'm currently developing towards web development, but I'm about IT in a broad sense I graduated from Silesian University of Technology majoring in Computer Science (BEng Degree). 
+Hi there 👋 <br><br>My name is Radosław Loth and currently I work as an Software Engineer. I'm currently developing towards web development, but I'm about IT in a broad sense I graduated from Silesian University of Technology majoring in Computer Science (BEng Degree). 
 
 
 ## 🌐 Socials:
@@ -14,7 +14,6 @@ Hi there  <br><br>My name is Radosław Loth and currently I work as an Software 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -33,4 +32,5 @@ Hi there  <br><br>My name is Radosław Loth and currently I work as an Software 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Fariusz&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fariusz&label=Profile%20views&color=0e75b6&style=flat" alt="fariusz" /> </p>
+
