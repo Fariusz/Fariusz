@@ -1,6 +1,12 @@
 # 💫 About Me:
-Hi there 👋 <br><br>My name is Radosław Loth and currently I work as an Software Engineer. I'm currently developing towards web development, but I'm about IT in a broad sense I graduated from Silesian University of Technology majoring in Computer Science (BEng Degree). 
+Hi there 👋 
+DevOps-focused Java Engineer, working on large-scale systems. I combine a background in industrial informatics with a Master’s in Modern Business Services Management to bridge tech and business. Passionate about automation, reliability, and continuous improvement in IT services.
 
+I play a role in enhancing DevOps practices and ensuring robust compliance with IT risk and change management controls. I contribute to the continuous improvement of systems, streamlining operations and ensuring reliability at scale.
+
+I hold a Master’s degree in Modern Business Services Management from WSB Merito University, which complements my engineering background in industrial informatics from the Silesian University of Technology. This unique combination of technical expertise and business insight enables me to bridge the gap between development and operations, delivering solutions that are both innovative and aligned with strategic goals.
+
+My core strengths lie in software engineering and IT operations, with a focus on building resilient systems, automating processes, and driving continuous improvement. I am passionate about contributing to high-performing teams and leveraging my skills to support ING’s mission of delivering exceptional service through technology.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/radoslaw-loth) 
