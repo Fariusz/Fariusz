@@ -37,4 +37,3 @@ Hi there 👋 <br><br>My name is Radosław Loth and currently I work as an Softw
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fariusz&label=Profile%20views&color=0e75b6&style=flat" alt="fariusz" /> </p>
-
